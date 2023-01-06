@@ -9,7 +9,7 @@ I'm currently learning to code to become a Full-stack developer
 * 🌍  I'm based in Madrid
 * ✉️  You can contact me at [aeiranzom@gmail.com](mailto:aeiranzom@gmail.com)
 * 🧠  I'm learning JavaScript
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anairanzo)](https://github.com/anuraghazra/github-readme-stats)
 ### Skills
 
 
