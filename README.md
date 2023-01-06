@@ -20,7 +20,7 @@ I'm currently learning to code to become a Full-stack developer
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
 
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+
 
 
 ### Socials
@@ -33,6 +33,6 @@ I'm currently learning to code to become a Full-stack developer
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnaIranzo&theme=jolly)](https://git.io/streak-stats)
 
-<img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.codewars.com/users/AnaIranzo/badges/micro)" width="100"/>
+<img src="https://www.codewars.com/users/AnaIranzo/badges/micro" width="100"/>
 
 
