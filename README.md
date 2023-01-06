@@ -33,4 +33,6 @@ I'm currently learning to code to become a Full-stack developer
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnaIranzo&theme=jolly)](https://git.io/streak-stats)
 
+<img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.codewars.com/users/AnaIranzo/badges/micro)" width="100"/>
+
 
