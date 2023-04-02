@@ -2,14 +2,12 @@
 ![image](https://user-images.githubusercontent.com/106691439/211117814-21b3a906-6894-4496-94fc-e8d28e53b66c.png)
 
 
-Web Developer
+Full Satck Developer
 -------------
 
-I'm currently learning to code to become a Full-stack developer
 
 * 🌍  I'm based in Madrid
 * ✉️  You can contact me at [aeiranzom@gmail.com](mailto:aeiranzom@gmail.com)
-* 🧠  I'm learning JavaScript
 
 ### Skills
 
