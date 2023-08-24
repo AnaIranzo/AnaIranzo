@@ -68,15 +68,6 @@ Full Satck Developer
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/AnaIranzo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ana-iranzo-molina-b72b34121" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -88,17 +79,18 @@ Full Satck Developer
   </a>
 </div>
 
+### Badges
+
+<b>My GitHub Stats</b>
+
+
 ###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/AnaIranzo/AnaIranzo/output/snake.svg" alt="Snake animation" />
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AnaIranzo/count.svg?"  />
-</div>
 
 ###
 
