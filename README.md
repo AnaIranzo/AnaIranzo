@@ -1,7 +1,7 @@
 
 ![image](https://user-images.githubusercontent.com/106691439/211117814-21b3a906-6894-4496-94fc-e8d28e53b66c.png)
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
 
 ###
 
