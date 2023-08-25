@@ -56,7 +56,9 @@ Full Satck Developer
 
 <img src="https://www.codewars.com/users/AnaIranzo/badges/small"/>
 
-<iframe src="https://giphy.com/embed/5WILqPq29TyIkVCSej" width="480" height="342" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lolyinthesky-cat-typing-funnycat-5WILqPq29TyIkVCSej">via GIPHY</a></p>
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXR6aW95ZzJvdW1ra2RvdjlqOGoyY3JvbHZqcGNwMHdtZW9jY3ByOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5WILqPq29TyIkVCSej/giphy.gif"  />
+</div>
 
 
 ### Socials
