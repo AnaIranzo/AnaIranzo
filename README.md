@@ -73,11 +73,10 @@ Full Satck Developer
   </a>
 </div>
 
+###
 
 <b>My GitHub Stats</b>
 
-
-###
 
 <br clear="both">
 
