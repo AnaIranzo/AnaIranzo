@@ -2,7 +2,18 @@
 ![image](https://user-images.githubusercontent.com/106691439/211117814-21b3a906-6894-4496-94fc-e8d28e53b66c.png)
 
 
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXR6aW95ZzJvdW1ra2RvdjlqOGoyY3JvbHZqcGNwMHdtZW9jY3ByOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5WILqPq29TyIkVCSej/giphy.gif"  />
+</div>
 
+Full Satck Developer
+-------------
+
+
+* 🌍  I'm based in Madrid
+* ✉️  You can contact me at [aeiranzom@gmail.com](mailto:aeiranzom@gmail.com)
+* Currently learning testing.
+  
 ###
 
 <div align="left">
@@ -45,20 +56,8 @@
 </div>
 
 
-Full Satck Developer
--------------
-
-
-* 🌍  I'm based in Madrid
-* ✉️  You can contact me at [aeiranzom@gmail.com](mailto:aeiranzom@gmail.com)
-
-
-
 <img src="https://www.codewars.com/users/AnaIranzo/badges/small"/>
 
-<div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXR6aW95ZzJvdW1ra2RvdjlqOGoyY3JvbHZqcGNwMHdtZW9jY3ByOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5WILqPq29TyIkVCSej/giphy.gif"  />
-</div>
 
 
 ### Socials
