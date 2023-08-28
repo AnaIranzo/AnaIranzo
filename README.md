@@ -74,7 +74,6 @@ Full Satck Developer
 
 ###
 
-<b>My GitHub Stats</b>
 
  ![Snake animation](https://github.com/AnaIranzo/AnaIranzo/blob/output/github-contribution-grid-snake.svg)
 
