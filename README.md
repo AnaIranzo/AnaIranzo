@@ -12,7 +12,7 @@ Full Satck Developer
 
 * 🌍  I'm based in Madrid
 * ✉️  You can contact me at [aeiranzom@gmail.com](mailto:aeiranzom@gmail.com)
-* Currently learning testing.
+* Currently learning testing with Vitest.
   
 ###
 
