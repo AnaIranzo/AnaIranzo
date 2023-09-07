@@ -57,9 +57,9 @@ Full Satck Developer
 
 
 <img src="https://www.codewars.com/users/AnaIranzo/badges/small"/>
-<div max-width= 50px>
-![image](pexels-александар-цветановић-1440387.jpg)
-</div>
+
+<img src='pexels-александар-цветановић-1440387.jpg' height="50"/>
+
 ### Socials
 
 
