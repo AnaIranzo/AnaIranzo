@@ -5,7 +5,7 @@
   <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXR6aW95ZzJvdW1ra2RvdjlqOGoyY3JvbHZqcGNwMHdtZW9jY3ByOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5WILqPq29TyIkVCSej/giphy.gif"  />
 </div>
 
-Full Satck Developer
+Full Stack Developer
 -------------
 
 
@@ -59,7 +59,9 @@ Full Satck Developer
 <div align="center">
 <img src='pexels-александар-цветановић-1440387.jpg' height="200"/>
 </div>
-### Socials
+
+### 
+Socials
 
 
 <div align="left">
