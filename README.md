@@ -58,6 +58,7 @@ Full Satck Developer
 
 <img src="https://www.codewars.com/users/AnaIranzo/badges/small"/>
 
+![image](https://user-images.githubusercontent.com/pexels-александар-цветановић-1440387.jpg)
 
 
 ### Socials
