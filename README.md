@@ -1,5 +1,4 @@
 
-![image](https://user-images.githubusercontent.com/106691439/211117814-21b3a906-6894-4496-94fc-e8d28e53b66c.png)
 
 
 <div align="center">
@@ -57,9 +56,9 @@ Full Satck Developer
 
 
 <img src="https://www.codewars.com/users/AnaIranzo/badges/small"/>
-
-<img src='pexels-александар-цветановић-1440387.jpg' height="50"/>
-
+<div align="center">
+<img src='pexels-александар-цветановић-1440387.jpg' height="200"/>
+</div>
 ### Socials
 
 
