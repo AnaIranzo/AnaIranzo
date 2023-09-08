@@ -1,4 +1,4 @@
-Hi! My name is Ana, welcome to my Github.
+Hi! My name is Ana. Welcome to my Github!
 
 
 <div align="center">
