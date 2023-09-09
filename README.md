@@ -74,21 +74,22 @@ Socials
   <a href = "mailto: ericamalakian@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center">
-<img src='AE_logo-2.png' height="200"/>
-</div>
+
 
 ###
 
 
-
+<div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnaIranzo&theme=jolly)](https://git.io/streak-stats)
 
- ![Snake animation](https://github.com/AnaIranzo/AnaIranzo/blob/output/github-contribution-grid-snake.svg)
-
-
+![Snake animation](https://github.com/AnaIranzo/AnaIranzo/blob/output/github-contribution-grid-snake.svg)
 
 ![](https://komarev.com/ghpvc/?username=AnaIranzo&color=blueviolet)
+</div>
+
+<div align="center">
+<img src='AE_logo-2.png' height="200"/>
+</div>
 
 
