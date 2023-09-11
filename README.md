@@ -64,7 +64,7 @@ Full Stack Developer
 </div>
 
 ### 
-Socials
+## Socials
 
 
 <div align="left">
