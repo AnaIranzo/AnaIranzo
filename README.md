@@ -1,24 +1,45 @@
 
-Hi! My name is Ana. Welcome to my Github!
+Welcome to my Github!
 -------------
 
+  
+Hi there! I'm Ana Iranzo, a passionate full-stack developer with a love for crafting web applications that are not only functional but also user-friendly. My journey in the world of technology has been an exciting one, and I'm eager to share some of my projects and experiences with you.
 
+### About Me
 
-<div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXR6aW95ZzJvdW1ra2RvdjlqOGoyY3JvbHZqcGNwMHdtZW9jY3ByOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5WILqPq29TyIkVCSej/giphy.gif"  />
-</div>
-
-Full Stack Developer
--------------
-
+I have a diverse background that encompasses both front-end and back-end development. I'm always exploring new technologies and looking for ways to improve my skills. When I'm not coding, you'll find me skating, climbing, or simply enjoying a movie with my cats."
 
 * 🌍  I'm based in Madrid
 * ✉️  You can contact me at [aeiranzom@gmail.com](mailto:aeiranzom@gmail.com)
 * 🌱 I’m currently learning testing with Vitest.
 
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXR6aW95ZzJvdW1ra2RvdjlqOGoyY3JvbHZqcGNwMHdtZW9jY3ByOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5WILqPq29TyIkVCSej/giphy.gif"  />
+</div>
+
+
+## Featured Projects
+
+### Project 1: E-Commerce Store
+
+- Description: Built a fully functional e-commerce website with product listings, product sorting, shopping cart.
+- Technologies Used: React.js, Node.js, Express.js, MongoDB.
+- [View Project](https://github.com/AnaIranzo/online_shop)
+
+### Project 2: E-Learnig Platform
+
+- Description: Developed an E-learning platform with a multidisciplinary team.
+- Technologies Used: React.js, Node.js, Redux, Sass, PostgreSQL.
+- [View Project](https://github.com/AnaIranzo/eLearning_platform)
+
+### Project 3: Movie App
+
+- Description: Developed a movie website with user authentication, two roles, movie listings, movie CRUD. 
+- Technologies Used: Node.js, Express.js, Pug, MongoDB, PostgesSQL.
+- [View Project](https://github.com/AnaIranzo/IMDv-movie)
 
   
-###
+## Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
