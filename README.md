@@ -110,6 +110,8 @@ I have a diverse background that encompasses both front-end and back-end develop
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnaIranzo&theme=jolly)](https://git.io/streak-stats)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsmith)
+
 ![Snake animation](https://github.com/AnaIranzo/AnaIranzo/blob/output/github-contribution-grid-snake.svg)
 
 ![](https://komarev.com/ghpvc/?username=AnaIranzo&color=blueviolet)
