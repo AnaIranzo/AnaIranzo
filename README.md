@@ -82,6 +82,7 @@ I have a diverse background that encompasses both front-end and back-end develop
 
 
 <img src="https://www.codewars.com/users/AnaIranzo/badges/small"/>
+
 <div align="center">
 <img src='pexels-александар-цветановић-1440387.jpg' height="200"/>
 </div>
@@ -102,7 +103,7 @@ I have a diverse background that encompasses both front-end and back-end develop
 
 
 
-###
+## GitHub Stats
 
 
 <div align="center">
@@ -113,6 +114,10 @@ I have a diverse background that encompasses both front-end and back-end develop
 
 ![](https://komarev.com/ghpvc/?username=AnaIranzo&color=blueviolet)
 </div>
+
+## Conclusion
+
+Thank you for visiting my GitHub profile! Feel free to explore my projects, connect with me on LinkedIn, or drop me an email. I'm always open to collaborating on exciting new projects and learning from fellow developers. Let's code together and build amazing things!
 
 <div align="center">
 <img src='AE_logo-2.png' height="200"/>
