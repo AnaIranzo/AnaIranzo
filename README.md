@@ -81,13 +81,13 @@ I have a diverse background that encompasses both front-end and back-end develop
 </div>
 
 
+### 
 <img src="https://www.codewars.com/users/AnaIranzo/badges/small"/>
 
 <div align="center">
 <img src='pexels-александар-цветановић-1440387.jpg' height="200"/>
 </div>
 
-### 
 ## Socials
 
 
@@ -110,7 +110,7 @@ I have a diverse background that encompasses both front-end and back-end develop
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnaIranzo&theme=jolly)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaIranzo)
+
 
 ![Snake animation](https://github.com/AnaIranzo/AnaIranzo/blob/output/github-contribution-grid-snake.svg)
 
