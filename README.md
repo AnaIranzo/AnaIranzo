@@ -9,7 +9,7 @@ Hi there! I'm Ana Iranzo, a passionate full-stack developer with a love for craf
 
 I have a diverse background that encompasses both front-end and back-end development. I'm always exploring new technologies and looking for ways to improve my skills. When I'm not coding, you'll find me skating, climbing, or simply enjoying a movie with my cats."
 
-* 🌍  I'm based in Madrid
+* 🌍 I'm based in Madrid
 * ✉️  You can contact me at [aeiranzom@gmail.com](mailto:aeiranzom@gmail.com)
 * 🌱 I’m currently learning testing with Vitest.
 
