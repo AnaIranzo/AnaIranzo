@@ -103,7 +103,6 @@ I have a diverse background that encompasses both front-end and back-end develop
 
 ## GitHub Stats
 
-
 <div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnaIranzo&theme=jolly)](https://git.io/streak-stats)
