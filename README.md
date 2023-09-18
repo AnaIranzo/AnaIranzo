@@ -80,7 +80,6 @@ I have a diverse background that encompasses both front-end and back-end develop
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 </div>
 
-
 ### 
 <img src="https://www.codewars.com/users/AnaIranzo/badges/small"/>
 
