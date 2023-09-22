@@ -17,7 +17,6 @@ I have a diverse background that encompasses both front-end and back-end develop
   <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXR6aW95ZzJvdW1ra2RvdjlqOGoyY3JvbHZqcGNwMHdtZW9jY3ByOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5WILqPq29TyIkVCSej/giphy.gif"  />
 </div>
 
-
 ## Featured Projects
 
 ### Project 1: E-Commerce Store
