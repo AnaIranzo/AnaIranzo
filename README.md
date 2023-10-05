@@ -98,7 +98,6 @@ I have a diverse background that encompasses both front-end and back-end develop
 </div>
 
  
-
 ## GitHub Stats
 
 <div align="center">
