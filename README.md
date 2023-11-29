@@ -82,9 +82,7 @@ I have a diverse background that encompasses both front-end and back-end develop
 ### 
 <img src="https://www.codewars.com/users/AnaIranzo/badges/small"/>
 
-<div align="center">
-<img src='pexels-александар-цветановић-1440387.jpg' height="200"/>
-</div>
+
 
 ## Socials
 
