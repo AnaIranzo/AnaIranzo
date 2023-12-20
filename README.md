@@ -9,7 +9,7 @@ I have a diverse background that encompasses both front-end and back-end develop
 
 * 🌍 I'm based in Madrid
 * ✉️ You can contact me at [aeiranzom@gmail.com](mailto:aeiranzom@gmail.com)
-* 🌱 I’m currently learning microservices.
+* 🌱 I’m currently learning SAPUI5, Fiori.
 
 
 
