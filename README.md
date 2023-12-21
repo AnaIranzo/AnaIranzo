@@ -12,7 +12,6 @@ I have a diverse background that encompasses both front-end and back-end develop
 * 🌱 I’m currently learning SAPUI5, Fiori.
 
 
-
 ## Featured Projects
 
 ### Project 1: E-Commerce Store
